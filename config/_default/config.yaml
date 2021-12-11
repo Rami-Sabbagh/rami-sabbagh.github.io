@@ -8,8 +8,8 @@ theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
 paginate: 5
-# copyright: >
-#   &copy; 2021 Rami Sabbagh
+copyright: >
+  &copy; 2014-2021 Rami Sabbagh
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
