@@ -5,6 +5,12 @@ en:
   contentDir: content/en
 
 # Uncomment for multilingual sites, and customize the following config.
+ar:
+  languageCode: ar
+  languageName: العربية
+  languagedirection: rtl
+  contentDir: content/ar
+  title: مدوّنة رامي
 # zh:
 #   languageCode: zh
 #   languageName: 简体中文
