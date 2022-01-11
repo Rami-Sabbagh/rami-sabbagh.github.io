@@ -21,6 +21,11 @@ defaultContentLanguageInSubdir: false
 # Uncomment for google analytics
 googleAnalytics: G-RTBP51GY2X
 
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+
 markup:
   # Do not modify markup.highlight
   highlight:
