@@ -8,7 +8,7 @@ en:
 ar:
   languageCode: ar
   languageName: العربية
-  languagedirection: rtl
+  languageDirection: rtl
   contentDir: content/ar
   title: مدوّنة رامي
 # zh:
