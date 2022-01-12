@@ -3,7 +3,7 @@ title: محمّد رامي صباغ
 draft: false
 role: طالب
 avatar: images/authors/rami-sabbagh.jpg
-bio: شغوف. متعلم ذاتي. احب التوجه مفتوح المصدر.
+bio: شغوف. متعلّم ذاتي. احب التوجّه مفتوح المصدر.
 organization:
   name: كلّية هندسة التقانة المعلوماتية، جامعة دمشق
   url: https://en.wikipedia.org/wiki/Damascus_University
