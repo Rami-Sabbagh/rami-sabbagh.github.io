@@ -48,10 +48,10 @@ widget:
 Been programming for almost ~8 years now.
 Made my first game at the age of ~13.
 
-Previousely created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source learning environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), Commodore 64 and little bit of DOS.
+Previousely created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source learning environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
 Interested in computers, LEGO, Raspberry Pi, math and electronics.
 
-## About This Blog
+## حول هذه المدوّنة
 
 This is a **hobby** blog where I _may_ write random posts related to computers and possibly anything electronic.
