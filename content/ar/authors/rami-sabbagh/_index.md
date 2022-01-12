@@ -3,12 +3,12 @@
 title: محمّد رامي صباغ
 role: طالب
 bio: >
-  The main writer of this (my personal) blog.
-  Passionate. Self-learner. Love open-source.
+  الكاتب الأساسي لهذه المدوّنة (مدوّنتي الشخصية).
+  شغوف. متعلم ذاتي. احب التوجه مفتوح المصدر.
 avatar: images/authors/rami-sabbagh.jpg
 
 organization:
-  name: Faculty of Information Technology Engineering, Damascus University
+  name: كلّية هندسة التقانة المعلوماتية، جامعة دمشق
   url: https://en.wikipedia.org/wiki/Damascus_University
 
 # Check the available icons on https://fontawesome.com/.
@@ -26,15 +26,11 @@ social:
     url: https://github.com/Rami-Sabbagh
 ---
 
-## Self Introduction
+## مقدّمة ذاتيّة
 
-Been programming for almost ~8 years now.
-Made my first game at the age of ~13.
+ابرمج منذ ما يقارب 8 سنين حتى الاّن.
+صنعت أوّل لعبة لي في سن الـ13 تفريبا.
 
-Previousely created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source learning environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
+اخترعت سابقا [LIKO-12](https://github.com/LIKO-12/LIKO-12)، وهو بيئة تعليمية مفتوحة المصدر تشبه الكمبيوترات القديمة، مستلهم من [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) والقليل من [DOS](https://en.wikipedia.org/wiki/DOS).
 
-Interested in computers, LEGO, Raspberry Pi, math and electronics.
-
-## About This Blog
-
-This is a **hobby** blog where I _may_ write random posts related to computers and possibly anything electronic.
+مهتم بالكمبيوترات، LEGO، Raspberry Pi، الرياضيات والقليل من الالكترونيات.
