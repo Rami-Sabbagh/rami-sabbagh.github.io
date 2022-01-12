@@ -1,5 +1,5 @@
 ---
-title: الصفحات
+title: المنشورات
 draft: false
 # Section you want to display
 section: posts
