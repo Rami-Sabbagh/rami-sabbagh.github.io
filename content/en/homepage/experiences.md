@@ -12,7 +12,7 @@ experiences:
       Created and maintained [LIKO-12](https://github.com/LIKO-12/LIKO-12/) for 3 years.
       An open-source "fantasy computer", or a retro-looking programming environment suitable for learning.
 
-      Inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), Commodore 64 and little bit of DOS.
+      Inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
       - Accumlated ~890 stars over the years.
 
