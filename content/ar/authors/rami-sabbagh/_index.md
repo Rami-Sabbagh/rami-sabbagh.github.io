@@ -31,6 +31,6 @@ social:
 ابرمج منذ ما يقارب 8 سنين حتى الاّن.
 صنعت أوّل لعبة لي في سن الـ13 تفريبا.
 
-اخترعت سابقا [LIKO-12](https://github.com/LIKO-12/LIKO-12)، وهو بيئة تعليمية مفتوحة المصدر تشبه الكمبيوترات القديمة، مستلهم من [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) والقليل من [DOS](https://en.wikipedia.org/wiki/DOS).
+اخترعت سابقا [LIKO-12](https://github.com/LIKO-12/LIKO-12)، وهو بيئة تعليمية مفتوحة المصدر تشبه الكمبيوترات القديمة، مستلهم من [PICO-8](https://www.lexaloffle.com/pico-8.php)، [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) والقليل من [DOS](https://en.wikipedia.org/wiki/DOS).
 
 مهتم بالكمبيوترات، LEGO، Raspberry Pi، الرياضيات والقليل من الالكترونيات.
