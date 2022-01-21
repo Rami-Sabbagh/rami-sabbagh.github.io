@@ -1,6 +1,6 @@
 ---
-title: Skipping the prototype stage!
-description: Updates on PixelizerBox with a youtube video.
+title: تخطّي مرحلة النموذج الأوّلي!
+description: تحديثات عن PixelizerBox مع فيديو.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

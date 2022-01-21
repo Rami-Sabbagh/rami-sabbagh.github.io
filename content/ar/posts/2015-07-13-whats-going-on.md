@@ -1,6 +1,6 @@
 ---
-title: What's going on!
-description: Updates on PixelizerBox with a youtube video and a tasks list.
+title: ما الّذي يحدث!
+description: تحديثات عن PixelizerBox مع فيديو يوتبتوب ولائحة مهام.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

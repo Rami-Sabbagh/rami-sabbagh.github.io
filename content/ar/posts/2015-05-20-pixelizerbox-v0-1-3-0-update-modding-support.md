@@ -1,6 +1,6 @@
 ---
-title: PixelizerBox V0.1.3.0 Update (Modding Support)
-description: An announcement about a new update for PixelizerBox being published on itch.io.
+title: تحديث PixelizerBox V0.1.3.0 (دعم التعديلات)
+description: اعلان حول تحديث جديد لمشروع PixelizerBox ونشره على منصة itch.io.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

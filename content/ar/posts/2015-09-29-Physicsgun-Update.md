@@ -1,8 +1,8 @@
 ---
-title: Physicsgun Update
+title: تحديث الفرد الفيزيائي
 description: >
-  Updates on PixelizerBox with a youtube video.
-  (The final one indeed)
+  تحديثات عن PixelizerBox مع فيديو يوتيوب.
+  (التحديث النهائي فعليّاً)
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

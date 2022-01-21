@@ -1,6 +1,6 @@
 ---
-title: Hibernating All Computers
-description: An announcement about suspending programming until the school tests are over.
+title: ادخال جميع الحواسيب في حالة ثبات
+description: اعلان حول إيقاف هواية البرمجة حتى تنتهي اختبارات المدرسة.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

@@ -1,8 +1,8 @@
 ---
-title: Infinite Worlds + Deleting Objects
+title: عالم لانهائي + حذف المجسّمات
 description: >
-  Updates on PixelizerBox with a youtube video.
-  (Made the world infinite and allowed deleting objects).
+  تحديثات عن PixelizerBox مع فيديو يوتيوب.
+  (تم جعل العالم بلا حدود والسماح بحذف المجسّمات).
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

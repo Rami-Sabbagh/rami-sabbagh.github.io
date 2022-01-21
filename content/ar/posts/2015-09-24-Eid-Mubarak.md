@@ -1,6 +1,6 @@
 ---
-title: Eid Mubarak
-description: A pixelart Eid Mubarak image.
+title: عيد مبارك
+description: صورة عيد مبارك بنمط الـpixelart
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

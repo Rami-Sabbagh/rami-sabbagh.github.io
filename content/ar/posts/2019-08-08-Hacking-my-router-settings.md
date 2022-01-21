@@ -1,6 +1,6 @@
 ---
-title: Hacking my router settings
-description: A demonstration on how the household routers are insecure.
+title: اختراق إعدادات راوتر المنزل
+description: مثال عن عدم الأمان الداخلي للراوترات المنزليّة
 toc: false
 authors: [rami-sabbagh]
 tags: []

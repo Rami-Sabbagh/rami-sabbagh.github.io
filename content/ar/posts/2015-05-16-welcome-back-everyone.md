@@ -1,6 +1,6 @@
 ---
-title: Welcome Back Everyone!
-description: An announcement about returning to programming and some updates on the projects I have been working on.
+title: أهلاً بكم من جديد!
+description: اعلان حول العودة للبرمجة وبعض التحديثات عن المشاريع الّتي أعمل عليها.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]

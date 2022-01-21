@@ -1,6 +1,6 @@
 ---
-title: Hello world!
-description: The first blog post ever.
+title: أهلا بالعالم!
+description: أول منشور على مدونّة شخصيّة.
 toc: false
 authors: [rami-sabbagh]
 tags: []
