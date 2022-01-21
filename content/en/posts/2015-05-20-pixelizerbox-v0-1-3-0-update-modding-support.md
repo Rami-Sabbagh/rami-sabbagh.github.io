@@ -13,7 +13,7 @@ featuredImage: images/posts/childhood-archive/screenshot-825x510.png
 draft: false
 ---
 
-> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+> **⚠ <u>Important</u>: This is a post from the _childhood archive_ which is written back in 2015, when I was ~14 years old (an 8th grade student). As you can notice many of basic problems in their content writing. Read _About Childhood Archive_ for more details on those posts.**
 
 Hi Everyone, Today I pushed the first update after a long time :D
 
