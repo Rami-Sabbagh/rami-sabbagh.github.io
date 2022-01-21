@@ -17,10 +17,13 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافة مجّانية مزوّدة بمدوّنة Wordpress.
 
-Hello everyone, I haven’t been active for some time, But now i’m back :)
+مرحبا بالجميع، لم أكن نشيط لبعض الوقت، ولكن الآن عدت :)
 
-After some upgrades and rewriting some files, The engine of the game is now able to jump over the prototype stage, Because of that I’m afraid, I have to pass on it :(
+بعد بعض التحديثات واعادة كتابة بعض الملفّات، يمكن لمحرّك اللعبة أن يتجاوز المحرلة الأوليّة،
+ولذلك أنا أخشى أنّه يجب عليي تجاوز هذه المرحلة :(
 
-Before I decided to pass on prototype stage, I had some work done on the sandbox (not and won’t be complete) which you can see in the featured video.
+قبل أخذ القرار بتجاوز المرحلة الأوليّة، كان لدي بعض العمل المنجز على الـsandbox (الّذي ليس ولن يكون مكتمل) والّذي تستطيع رؤيته في الفيديو.
 
-Now I started working on the level editor, Screenshots and videos are coming soon !
+قبل أن أقرر تجاوز المرحلة الأووليّة، كان عليي نجاز بعض العمل على الـsandbox (ليس ولن يكون مكتمل)
+
+الآن بدأت العمل على معدّل المراحل، الـscreenshots والفيديوهات قادمون قريباً!
