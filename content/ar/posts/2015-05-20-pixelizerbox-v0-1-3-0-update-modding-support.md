@@ -17,14 +17,14 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافة مجّانية مزوّدة بمدوّنة Wordpress.
 
-Hi Everyone, Today I pushed the first update after a long time :D
+أهلاً بالجميع، اليوم أطلقت التحديث الأوّل بعد مضي زمن طويل :D
 
-You can download it directly from [itch.io](http://ramilego4game.itch.io/pixelizerbox) page.
+يمكنك تحميله مباشرة من صفحة [itch.io](http://ramilego4game.itch.io/pixelizerbox).
 
-Now it have a side-menu for choosing object.
+الآن يوجد قائمة جانبيّة لاختيار المجسّم.
 
-And you can now create mods without having to code :) !
+ويمكن الآن انشاء تعديلات من دون الحاجة للبرمجة.
 
-You can find a tutorial at “/PixelizerBox/Modding Documentation.txt” and there is an example mod at “/PixelizerBox/Mods/Simple/”.
+يمكنك العثور على شرح في `/PixelizerBox/Modding Documentation.txt` ويوجد هناك ايضاً مثال لتعديل بسيط في `/PixelizerBox/Simple`.
 
-And you can download the used PhysicsEditor from [Here](https://www.codeandweb.com/physicseditor).
+ويمكنك تحميل برنامج PhysicsEditor المستخدم من [هنا](https://www.codeandweb.com/physicseditor).
