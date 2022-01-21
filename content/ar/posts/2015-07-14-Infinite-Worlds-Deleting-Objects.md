@@ -18,4 +18,4 @@ draft: true
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافة مجّانية مزوّدة بمدوّنة Wordpress.
 
-I have uploaded a new video to youtube about the new two features: Infinite Worlds + Deleting Objects.
+لقد رفعت فيديو جديد على اليوتيوب حول ميزتين جديدتين: عوالم لا نهائيّة + حذف المجسّمات.

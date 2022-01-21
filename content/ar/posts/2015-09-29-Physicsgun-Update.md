@@ -19,6 +19,6 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافة مجّانية مزوّدة بمدوّنة Wordpress.
 
-Hey everyone, I have released a new version of PixelizerBox with a Physicsgun !
+أهلا بالجميع، لقد اطلقت اصدار جديد من PixelizerBox مع فرد فيزيائي!
 
-Download now at itch.io : [http://ramilego4game.itch.io/pixelizerbox-dev-pre](http://ramilego4game.itch.io/pixelizerbox-dev-pre)
+حمّل الآن على itch.io: [http://ramilego4game.itch.io/pixelizerbox-dev-pre](http://ramilego4game.itch.io/pixelizerbox-dev-pre)

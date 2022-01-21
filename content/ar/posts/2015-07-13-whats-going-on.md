@@ -17,34 +17,32 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافة مجّانية مزوّدة بمدوّنة Wordpress.
 
-It has been a long time ago since the last post, That’s because I’m being so busy programming the level editor.
+لقد مرّ زمنٌ طويل منذ اخر منشور، ذلك لأنّي كنت مشغول جدّا ببرمجة معدّل المراحل.
 
-I have uploaded various development videos to Youtube to see what I have done, And then created a playlist for them, There are 3 new videos and an old one motioned in the old post.
+قمت برفع عدّة فيديوهات لتطورّر المشروع على اليوتيوب لتشاهد ما أنجزت، وأنشأت لائحة لهم، يوجد حاليّا 3 فيديوهات جديدة وواحد من المنشور السابق.
 
-That was a lot of hard work to make it with clean, simple GUI !
+كان يوجد العديد من العمل الشاق كي أصنع واجهة مستخدم نظيفة وبسيطة!
 
-## Things have been done:
+## الأشياء الّتي أنجزتها:
 
-- Clean, simple GUI
-- Code drawn grid
-- Quick object select bar
-- New,Save and Load buttons
-- Infinite maps
-- Zoom In/Out with mouse scroll
-- Snap-To-Grid object creation
-- Static Rectangle
-- Soft ball to play with
-- Object options for customization of their properties
-- Custom error screen with bug reports
-- Level System API
+- واجهة متسخدم نظيفة وبسيطة
+- شبكة مسرومة باستخدام الـcode
+- أزرار جديد (New)، حمّل (Load) واحفظ (Save)
+- خرائط لا نهائيّة
+- التكبر للداخل وللخارج باستخدام عجلة الـmouse
+- انشاء مجسمات مع الانجذاب للشبكة
+- مستطيلات جامدة
+- كرة طريّة للعب بها
+- خيارات لتعديل خواص المجسّمات
+- شاشة فشل خاصّة مع تباليغ للمشاكل
+- واجهة برمجية للمراحل
 
-## Things to be done for the demo:
+## الأشياء الّتي يجب انجازها للنسخة التجريبيّة (Demo):
 
-- Ability to delete objects
-- Level spawn
-- Connected levels system
-- Rectangles color option
-- Player customization
-- Test mode
-- Main menu
-- Add music/sounds to the game
+- القدرة لحذف المجسّمات
+- نقطة الولادة في المرحلة
+- نظام لوصل المراحل مع بعضها
+- خيار لتعديل لون المستطيلات
+- وضع التجريب
+- القائمة الرئيسيّة
+- اضافة موسيقا/أصوات للعبة
