@@ -1,6 +1,6 @@
 ---
 title: "LIKO-12 Doodle #1 • PowderV1.2"
-description: درس تعليمي حول صنع محاكي تراب بسيط في LIKO-12.
+description: شرح حول كيفيّة صنع محاكي بسيط للمسحوق في LIKO-12.
 toc: false
 authors: [rami-sabbagh]
 tags: [LIKO-12]
@@ -13,28 +13,28 @@ featuredImage: images/posts/liko-12-doodle-1-powder/Preview.gif
 draft: false
 ---
 
-> A powder sandbox in LIKO-12
+> بيئة بسيطة لمحاكاة مسحوق في LIKO-12
 
-> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربية.
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمحتوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربية.
 
+إنّ إنشاء بيئة محاكاة بسيطة للمسحوق في LIKO-12 ليست بالشيء الصعب على الإطلاق، حيث أنها احتاجت منّي فقط ساعتين لكتابة كل الـ"doodle".
 
-Creating a powder sandbox in LIKO-12, is not hard at all, it only took me 2 hours to write the whole doodle.
-
-First, I had to find a way to store the powder canvas, and for this I used an _imagedata_, but you may be asking, what an imagedata is ?
-
----
-
-The LIKO-12 GPU offers 2 amazing features called _images_ and _imagedatas_:
-
-- **Images:** They are like sprites (Sprites are actually images internaly), that you can directly draw to the screen, but without being able to edit them.
-
-- **ImageDatas:** They are the _data_ of an image that you can read pixels from, set pixels to, encode, export to a png, etc.., But without the ability to draw them.
-
-You can convert an ImageData to an Image and vice versa.
+بدايةً كان عليَّ إيجاد طريقة لتخزين "لوح" المسحوق، ولهذا الغرض استخدمت _imagedata_، ولكن ربّما أنت تسأل، ماذا تكون الـimagedata؟
 
 ---
 
-So here I want to create an image with the size of the screen, but leaving some space at the bottom for a toolbar, I can simply achive this by a single call !
+محرّك رسوميّات الـLIKO-12 يقدّم ميزتين رائعتين معروفتين باسمي _images_ (الصور) و _imagedatas_ (بيانات الصور):
+
+- **الصور Images:** انهم مثل الأشباح sprites (الأشباح هم عبارة عن صور داخل المحرّك)، والتي يمكنك رسمهم مباشرةً على الشاشة، مقابل عدم القدرة على تعديلهم.
+
+- **بيانات الصور ImageDatas:** إنّهم _البيانات_ المعبّرة عن الصور، والّتي تستطيع أن تقرأ ألوان النقاط منهم، تعدّل النقاط فيهم، ترميزهم إلى سلسلة محارف أو تخرّجهم إلى ملفات png، الخ..، لكن من دون القدرة على عرضهم.
+
+وتستطيع التحويل من ImageData إلى Image وبالعكس أيضاً.
+
+---
+
+فهنا أريد إنشاء صورة بحجم الشاشة، مع إتاحة المجال في أسفل الشاشة لشريط أدوات، ويمكنني تحقيق هذا ببساطة:
+
 
 ```lua
 local sw, sh = screenSize() --Returns the size of the screen, so you won't ever have to remember the resolution of LIKO-12 screen :P
@@ -43,7 +43,7 @@ local cw, ch = sw, sh-8 --The powder canvas size, with 8 free pixels from the bo
 local cimg = imagedata(cw,ch) --The imagedata of the powder canvas, we can easily create one by a single call.
 ```
 
-And creating a particle is easy then
+ويكون إنشاء حبيبات المسحوق سهلا:
 
 ```lua
 ---local sw, sh = screenSize()
@@ -61,12 +61,11 @@ local function createParticle(x,y,c)
 end
 ```
 
-I had to store the created particles in a table so they get updated each tick until they reach their static state.
+توجّب عليَّ تخزين الحبيبات في مصفوفة حتى يتمّ تحديثهم في كل تكّة حتى تصل الحبيبات إلى وضعها الثابت.
 
 ---
 
-Next I have to hook the `createParticle` function with the mouse, but wait, what about the mobile devices with multitouch ??
-I can simply handle this by storing each touch position in a table, and simulating the mouse as a touch on desktops.
+ومن ثمّ احتاج إلى ربط تابع `createParticle` مع الـmouse، لكن انتظر، ماذا عن الأجهزة المحمولة مع اللّمس المتعدّد ؟؟ يمكن التعامل معهم عن طريق تخزين موقع كل "لمس" (اصبع) في مصفوفة، ومحاكاة الـmouse على أنّها لمس في الأجهزة المكتبيّة.
 
 ```lua
 Controls("touch") --I have to set the controls type to touch for it to work ! (It defaults to the controllers).
@@ -130,7 +129,7 @@ function _mousereleased(x,y,button,istouch)
 end
 ```
 
-Now I will create a ticks system and call createParticle in it.
+الآن سأنشئ نظام تكتكة واستدعي `createParticle` فيه:
 
 ```lua
 ---Controls("touch")
@@ -176,7 +175,7 @@ end
 ]]
 ```
 
-Now it's time to add the powder canvas drawing code.
+حان الموعد لإضافة كود رسم "اللوح":
 
 ```lua
 --[[
@@ -217,13 +216,13 @@ end
 
 ---
 
-It's time for a test run !
+إنّه الوقت لتشغيل تجريبي!
 
 ![Test Run 1 GIF](/images/posts/liko-12-doodle-1-powder/TestRun1.gif)
 
 ---
 
-After that I had to write the particles movement function, and call it in tick:
+بعد ذلك توجّب علي كتابة تابع حركة الحبيبات، واستدعائه عند كل تكّة:
 
 ```lua
 --[[
@@ -299,13 +298,13 @@ End-Of-File
 ]]
 ```
 
-But there's 1 thing, when the particle is created on the sides of the screen, or when it reaches the bottom of the canvas it will error because of out-of-bound `getPixel` !
-To avoid that I made 2 edits:
+لكن هنالك شيءٌ واحد، والّذي توقّف البرنامج نتيجة خطأ عندما يتم إنشاء حبيبات عند أطراف الشاشة أو عندما تصل الحبيبات لأسفل "اللّوح" مع رسالة `getPixel` "خارج المجال"!
 
-#### Create a border around the cavnas:
+لتجنّب هذه المشكلة توجّب اجراء تعديلين:
 
-`imagedata:map(func)` call func for each pixel in the imagedata.
-{: .notice_info}
+#### إنشاء اطار حول اللّوح:
+
+> (`imagedata:map(func)` يستدعي التابع `func` لكل نقطة في الـimagedata).
 
 ```lua
 --[[
@@ -325,7 +324,7 @@ end)
 --The rest of the code
 ```
 
-#### Set the limits of `createParticle` to only work inside the border (inorder to not replace the border)
+#### جعل `createParticle` تعمل فقط داخل الإطار (من أجل عدم استبدال حبيبات الإطار الثابتة):
 
 ```lua
 ---....
@@ -338,37 +337,36 @@ end
 
 ---
 
-It's time for another test run !
+حان الوقت لتشغيل تجريبي أخر!
 
 ![Test Run 2 GIF](/images/posts/liko-12-doodle-1-powder/TestRun2.gif)
 
 ---
 
-**The final task:** Create the bottom toolbar !
+**المهمّة النهائيّة:** انشاء شريط الأدوات السفلي!
 
-The bottom toolbar would have:
-- A color box, to show the current selected color
-- A colors bar with 15 color (black can't be used)
+سيحتوي شريط الأدوات السفلي على:
 
-#### The color box:
+- صندوق لون، لإظهار اللّون المختار حاليّاً.
+- شريط ألوان بـ15 لون (لا يمكن استخدام اللّون الأسود).
 
-I'm going to draw a sprite, and use `pal()` to change the color inside of it:
+#### صندوق اللّون:
 
-`pal(c1,c2)` Changes `c1` to have the color of `c2`.
-{: .notice_info}
+سأرسم شبح وأستخدم `pal()` لتغيير اللّون داخله:
+
+> `pal(c1,c2)` تغيّر `c1` ليصبح باللّون `c2`.
 
 ![Colorbox Sprite](/images/posts/liko-12-doodle-1-powder/ColorBox.png)
 
-#### The colors bar:
+#### شريط الألوان:
 
-I'll use a useful function provided by DiskOS named `whereInGrid(mx,my,grid)`
+سأستخدم تابع مفيد مزوّد من قبل DiskOS (نظام تشغيل الـLIKO-12) يدعى `whereInGrid(mx,my,grid)`
 
-The grid definition: `{Grid Top-Left X, Grid Top-Left Y, Grid Width in Pixels, Grid Height in Pixels, The number of the columns, The number of rows}`
-{: .notice_info}
+تعريف الشبكة: `{X الزاوية العلياء-اليسراء للشبكة, Y الزاوية العلياء-اليسراء للشبكة, عرض الشبكة بالنقاط, ارتفاع الشبكة بالنقاط, عدد الأعمدة, عدد الأسطر}`
 
-That grid function will take a mouse position, and return the position of the cell that the mouse is hovering over in cells.
+هذا التابع يأخذ احداثيّات المؤشّر وتريف للشبكة، ويعطي بالمقابل موضع الخليّة التي يحوم حولها المؤشّر باستخدام واحدة الخلايا (وليس النقاط).
 
-And for the colors bar drawing I'll create an image with the 15 color, and scale it by 8 when drawing it.
+ولرسم شريط الألوان سأنشئ صورة بـ15 لون وأرسمها بتكبير 8 مرّات.
 
 ---
 
@@ -439,13 +437,13 @@ end
 
 ---
 
-That's it, you got a full clone of my powder doodle !
+هذه هي، لقد حصلت على نسخة كاملة من بيئة محاكاة المسحوق البسيطة!
 
 ![Result GIF](/images/posts/liko-12-doodle-1-powder/Result.gif)
 
 ---
 
-Oh, and you may notice that the sandbox ticks so slow, for that we can do a very simple patch in `_update`:
+اه، ويمكنك أيضا أن تلاحظ أن المحاكات تتم ببطء، لحلّ هذا نستطيع اجراء تعديل بسيط جدّا بحيث نجري 5 تكّات عند كل تحديث للمحاكاة في `_update`:
 
 ```lua
 function _update(dt)
@@ -457,7 +455,7 @@ end
 
 ![Final GIF](/images/posts/liko-12-doodle-1-powder/Final.gif)
 
-You can get the final version by typing in LIKO-12 terminal:
+وتستطيع الحصول على النسخة النهائيّة بإدخال التالي في الـLIKO-12 Terminal:
 
 ```
 pastebin get x1yDaTxk powderV1.2.lk12
@@ -467,8 +465,11 @@ run
 
 ---
 
-Thanks for reading !
+شكراً للقراءة!
 
-I hope you enjoyed it, Feel free to support my work by donating to [LIKO-12](http://ramilego4game.itch.io/liko12) :)
+أتمنّى أنّك قد استمتعت بالمنشور، ويمكنك دوما دعم أعمالي عن طريق التبرّع لـ[LIKO-12](http://ramilego4game.itch.io/liko12) :)
+
+> **تحديث 2021:** تمّ اغلاق التبرّعات عن مشروع الـLIKO-12.
+
 
 ---
