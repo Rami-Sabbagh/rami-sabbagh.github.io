@@ -3,7 +3,7 @@ title: Eid Mubarak
 description: A pixelart Eid Mubarak image.
 toc: false
 authors: [rami-sabbagh]
-tags: [pixelizerbox]
+tags: []
 categories: [childhood-archive]
 series: []
 date: 2015-09-24T00:00:00+02:00

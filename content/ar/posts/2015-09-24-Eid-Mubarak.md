@@ -3,7 +3,7 @@ title: عيد مبارك
 description: صورة عيد مبارك بنمط الـpixelart
 toc: false
 authors: [rami-sabbagh]
-tags: [pixelizerbox]
+tags: []
 categories: [childhood-archive]
 series: []
 date: 2015-09-24T00:00:00+02:00
