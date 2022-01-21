@@ -17,17 +17,22 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
 
-Hey everyone :) , I’m back, Sorry for being too late :(, But i have some good news !
+مرحباً بالجميع :)، لقد عدت، واعتذر عن كوني متأخر كثيرا :(، لكن لدي بعض الأخبار الجيّدة!
 
-I started working on CJForge, It’s an engine upgrade to concerned joe that brings advanced modding to it, The main reason to start it is that Xelu is no longer updating concerned joe, For now i’m only documenting all the files in CJ files, If you want to see what i have done visit [http://github.com/ramilego4game/cjforge/](http://github.com/ramilego4game/cjforge/).
+بدأت العمل على CJForge، والّذي هو تطوير لمحرّك Concerned Joe والّذي يحضر دعم للتعديل المتقدّم اليه،
+السبب الرئيسي لانشاء CJForge هو لأنّ Xelu لم يعد ينشر تحديثات لـConcerned Joe،
+لحد الآن أقوم بفقط توثيق جميع الملفّات في المحرّك الأساسي،
+اذا أردت رؤية ما أنجزت فهو موجود _هنا_ (الرابط محذوف).
 
-Sorry for not posting updates to Pixelizerbox, But now I have some changes to show :
+اّسف عن عدم نشر تحديثات لـPixelizerBox، لكن الآن لدي بعض التعديلات لأعرضها:
 
-  I decided to create a new options menu to replace the 2 frames, It’s still under coding, But you can see what I have done :
+قرّرت أن أضيف قائمة خيارات جديدة لأستبدل بها النافذتين، لكنها لازالت تحت البرمجة، ويمكنك رؤية ما أنجزت:
 
 ![image](/images/posts/childhood-archive/screenshot01.png)
 ![image](/images/posts/childhood-archive/screenshot02.png)
 
-As you see now there is a toolbar at the top that haves 4 button, And a Menu that is toggle-able, For now you see only the objects menu, But then I’ll add objects options (Like: Static, Bouncy, Density, Mass, etc…..), I wish I may release this update maybe after 3 days.
+كما ترا الآن يوجد شريط أدوات في الأعلى ويحوي 4 أزرار، وقائمة قابلة للتبديل (toggleable)،
+لحد الآن تستطيع رؤية فقط قائمة المجسّمات، لكن فيما بعد سأضيف خيارات للمجسّمات (مثل: ثابت، مطّاطي، الكثافة، الكتلة، الخ…)،
+أتمنّة أن أسطيع اطلاق هذا التحديث ربّما بعد ثلاثة أيّام.
 
-That’s all for today, See you tomorrow 😀
+هذا كلُّ شي لليوم، نراك غداً 😀

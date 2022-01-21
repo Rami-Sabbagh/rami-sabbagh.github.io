@@ -17,4 +17,4 @@ draft: false
 
 > **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
 
-Welcome to RamiLego4Game Website. This is my first post, So Hello everyone :)
+مرحبا في صفحة RamiLego4Game. هذا هو منشوري الأوّل، فمرحباً بالجميع :)
