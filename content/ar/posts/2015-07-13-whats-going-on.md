@@ -1,6 +1,6 @@
 ---
 title: ما الّذي يحدث!
-description: تحديثات عن PixelizerBox مع فيديو يوتبتوب ولائحة مهام.
+description: تحديثات عن PixelizerBox مع فيديو يوتيوب ولائحة مهام.
 toc: false
 authors: [rami-sabbagh]
 tags: [pixelizerbox]
