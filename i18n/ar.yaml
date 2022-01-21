@@ -1,7 +1,8 @@
 readMore:
   other: اقرأ المزيد
 readingTime:
-  other: '{{ .ReadingTime }} دقائق من القراءة'
+  one: دقيقة من القراءة
+  other: '{{ .Count }} دقائق من القراءة'
 toc:
   other: لائحة المحتوى
 seriesOfPosts:
@@ -11,7 +12,7 @@ previous:
 next:
   other: التالي
 seeAlso:
-  other: أنظر أيضاً
+  other: انظر أيضاً
 recent:
   other: جديد
 onThisPage:
