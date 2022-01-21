@@ -301,8 +301,7 @@ To avoid that I made 2 edits:
 
 #### Create a border around the cavnas:
 
-`imagedata:map(func)` call func for each pixel in the imagedata.
-{: .notice_info}
+> (`imagedata:map(func)` call func for each pixel in the imagedata).
 
 ```lua
 --[[
@@ -351,8 +350,7 @@ The bottom toolbar would have:
 
 I'm going to draw a sprite, and use `pal()` to change the color inside of it:
 
-`pal(c1,c2)` Changes `c1` to have the color of `c2`.
-{: .notice_info}
+> (`pal(c1,c2)` Changes `c1` to have the color of `c2`).
 
 ![Colorbox Sprite](/images/posts/liko-12-doodle-1-powder/ColorBox.png)
 
@@ -360,8 +358,7 @@ I'm going to draw a sprite, and use `pal()` to change the color inside of it:
 
 I'll use a useful function provided by DiskOS named `whereInGrid(mx,my,grid)`
 
-The grid definition: `{Grid Top-Left X, Grid Top-Left Y, Grid Width in Pixels, Grid Height in Pixels, The number of the columns, The number of rows}`
-{: .notice_info}
+> (The grid definition: `{Grid Top-Left X, Grid Top-Left Y, Grid Width in Pixels, Grid Height in Pixels, The number of the columns, The number of rows}`)
 
 That grid function will take a mouse position, and return the position of the cell that the mouse is hovering over in cells.
 
