@@ -11,6 +11,8 @@ ar:
   languageDirection: rtl
   contentDir: content/ar
   title: مدوّنة رامي
+  description: مدوّنة شخصيّة حول التكنولوجيا والهندسة
+  publisherName: محمّد رامي صبّاغ
 # zh:
 #   languageCode: zh
 #   languageName: 简体中文
