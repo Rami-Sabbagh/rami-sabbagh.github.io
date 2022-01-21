@@ -14,4 +14,6 @@ featuredImage: images/posts/childhood-archive/2015-07-14_21-00-30-825x510.png
 draft: true
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 I have uploaded a new video to youtube about the new two features: Infinite Worlds + Deleting Objects.

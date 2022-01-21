@@ -13,6 +13,8 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 Hello everyone, I haven’t been active for some time, But now i’m back :)
 
 After some upgrades and rewriting some files, The engine of the game is now able to jump over the prototype stage, Because of that I’m afraid, I have to pass on it :(

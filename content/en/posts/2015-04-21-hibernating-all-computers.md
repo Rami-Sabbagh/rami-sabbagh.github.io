@@ -13,6 +13,8 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 Hello everyone !
 
 Today I have some good & bad news :)

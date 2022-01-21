@@ -15,6 +15,9 @@ draft: false
 
 > A powder sandbox in LIKO-12
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
+
 Creating a powder sandbox in LIKO-12, is not hard at all, it only took me 2 hours to write the whole doodle.
 
 First, I had to find a way to store the powder canvas, and for this I used an _imagedata_, but you may be asking, what an imagedata is ?

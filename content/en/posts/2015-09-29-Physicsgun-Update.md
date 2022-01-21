@@ -15,6 +15,8 @@ featuredImage: images/posts/childhood-archive/PixelizerBox_Development_Preview-e
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 Hey everyone, I have released a new version of PixelizerBox with a Physicsgun !
 
 Download now at itch.io : [http://ramilego4game.itch.io/pixelizerbox-dev-pre](http://ramilego4game.itch.io/pixelizerbox-dev-pre)

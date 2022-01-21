@@ -13,6 +13,10 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
+> **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
+
 It has been a long time ago since the last post, That’s because I’m being so busy programming the level editor.
 
 I have uploaded various development videos to Youtube to see what I have done, And then created a playlist for them, There are 3 new videos and an old one motioned in the old post.

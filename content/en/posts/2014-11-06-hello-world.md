@@ -13,4 +13,6 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 Welcome to RamiLego4Game Website. This is my first post, So Hello everyone :)

@@ -13,6 +13,10 @@ featuredImage: images/posts/childhood-archive/screenshot-825x510.png
 draft: false
 ---
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
+> **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
+
 Hi Everyone, Today I pushed the first update after a long time :D
 
 You can download it directly from [itch.io](http://ramilego4game.itch.io/pixelizerbox) page.

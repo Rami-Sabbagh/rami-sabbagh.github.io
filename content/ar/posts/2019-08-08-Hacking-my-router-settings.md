@@ -13,6 +13,8 @@ featuredImage: images/posts/hacking-my-router-settings/post_image.png
 draft: false
 ---
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
 Hello everyone, it's been 2 years since the last blog post, yea, I'm such a lazy blogger 😛
 
 Many changes have been made to my home's network recently, my dad took full control of it...

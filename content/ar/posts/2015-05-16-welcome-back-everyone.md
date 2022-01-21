@@ -13,6 +13,10 @@ featuredImage: images/posts/childhood-archive/screenshot02-e1431774743456-825x40
 draft: false
 ---
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
+> **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
+
 Hey everyone :) , I’m back, Sorry for being too late :(, But i have some good news !
 
 I started working on CJForge, It’s an engine upgrade to concerned joe that brings advanced modding to it, The main reason to start it is that Xelu is no longer updating concerned joe, For now i’m only documenting all the files in CJ files, If you want to see what i have done visit [http://github.com/ramilego4game/cjforge/](http://github.com/ramilego4game/cjforge/).

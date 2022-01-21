@@ -13,6 +13,8 @@ featuredImage: images/posts/childhood-archive/screenshot-825x510.png
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 Hi Everyone, Today I pushed the first update after a long time :D
 
 You can download it directly from [itch.io](http://ramilego4game.itch.io/pixelizerbox) page.

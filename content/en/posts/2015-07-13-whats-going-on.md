@@ -13,6 +13,8 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ Notice:** This is a post from the _childhood archive_. Kept as a reference on my childhood attempts to publish something on the internet. It was originally published using a free hosted Wordpress blog.
+
 It has been a long time ago since the last post, That’s because I’m being so busy programming the level editor.
 
 I have uploaded various development videos to Youtube to see what I have done, And then created a playlist for them, There are 3 new videos and an old one motioned in the old post.

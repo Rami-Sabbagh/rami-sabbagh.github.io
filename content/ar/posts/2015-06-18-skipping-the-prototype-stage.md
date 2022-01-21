@@ -13,6 +13,10 @@ featuredImage:
 draft: false
 ---
 
+> **ⓘ هام:** هذا المنشور موجود من قبل تقديم الدعم للمتحوى العربي. حيث أن النسخة الأصلية كانت مكتوبة بالانجليزية فقط، وترجمت في بداية 2022 للعربي.
+
+> **ⓘ ملحوظة:** هذا منشور من _أرشيف الطفولة_. موجود كمرجع  لمحاولاتي السابقة في نشر محتوى على الانترنت. حيث كانت تنشر باستخدام استضافية مجّانية مزوّدة بمدوّنة Wordpress.
+
 Hello everyone, I haven’t been active for some time, But now i’m back :)
 
 After some upgrades and rewriting some files, The engine of the game is now able to jump over the prototype stage, Because of that I’m afraid, I have to pass on it :(
