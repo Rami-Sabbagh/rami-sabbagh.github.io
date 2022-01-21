@@ -15,8 +15,6 @@ featuredImage: images/posts/childhood-archive/PixelizerBox_Development_Preview-e
 draft: false
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_tlw3yRIdvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Hey everyone, I have released a new version of PixelizerBox with a Physicsgun !
 
 Download now at itch.io : [http://ramilego4game.itch.io/pixelizerbox-dev-pre](http://ramilego4game.itch.io/pixelizerbox-dev-pre)

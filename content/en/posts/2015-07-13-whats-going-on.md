@@ -17,8 +17,6 @@ It has been a long time ago since the last post, That’s because I’m being so
 
 I have uploaded various development videos to Youtube to see what I have done, And then created a playlist for them, There are 3 new videos and an old one motioned in the old post.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n5QEhVjHSWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 That was a lot of hard work to make it with clean, simple GUI !
 
 ## Things have been done:
