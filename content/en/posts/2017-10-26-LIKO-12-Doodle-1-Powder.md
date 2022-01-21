@@ -1,5 +1,5 @@
 ---
-title: "LIKO-12 Doodle #1 - PowderV1.2"
+title: "LIKO-12 Doodle #1 • PowderV1.2"
 description: A tutorial on creating a simple powder doodle in LIKO-12.
 toc: false
 authors: [rami-sabbagh]
