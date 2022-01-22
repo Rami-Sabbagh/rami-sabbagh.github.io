@@ -13,7 +13,7 @@ featuredImage: images/posts/childhood-archive/screenshot-825x510.png
 draft: false
 ---
 
-> **⚠ <u>Important</u>: This is a post from the _childhood archive_ which is written back in 2015, when I was ~14 years old (an 8th grade student). As you can notice many basic problems in their content writing. Read _About Childhood Archive_ for more details on those posts.**
+> **⚠ <u>Important</u>: This is a post from the _childhood archive_ which is written back in 2015, when I was ~14 years old (an 8th grade student). As you can notice there are many basic problems in their content writing. Read _About Childhood Archive_ for more details on those posts.**
 
 Hi Everyone, Today I pushed the first update after a long time :D
 
