@@ -7,7 +7,7 @@ tags: []
 categories: [childhood-archive]
 series: []
 date: 2015-09-24T00:00:00+02:00
-lastmod: 2015-09-24T00:00:00+02:00
+lastmod: 2022-01-22T14:58:46+02:00
 featuredVideo:
 featuredImage: images/posts/childhood-archive/Eid-Mubarak.png
 draft: false

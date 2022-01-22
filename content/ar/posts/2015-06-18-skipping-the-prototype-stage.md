@@ -7,7 +7,7 @@ tags: [pixelizerbox]
 categories: [childhood-archive]
 series: []
 date: 2015-06-18T00:00:00+02:00
-lastmod: 2015-06-18T00:00:00+02:00
+lastmod: 2022-01-22T14:58:14+02:00
 featuredVideo: https://www.youtube-nocookie.com/embed/ORGgFm8q49w
 featuredImage:
 draft: false

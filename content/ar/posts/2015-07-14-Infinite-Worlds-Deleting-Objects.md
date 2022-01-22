@@ -8,7 +8,7 @@ authors: [rami-sabbagh]
 tags: [pixelizerbox]
 series: []
 date: 2015-07-14T00:00:00+02:00
-lastmod: 2015-07-14T00:00:00+02:00
+lastmod: 2022-01-22T14:58:36+02:00
 featuredVideo: https://www.youtube-nocookie.com/embed/X53oXLAJ90I
 featuredImage: images/posts/childhood-archive/2015-07-14_21-00-30-825x510.png
 draft: false

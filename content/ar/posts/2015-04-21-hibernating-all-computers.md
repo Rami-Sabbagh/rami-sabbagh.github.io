@@ -7,7 +7,7 @@ tags: [pixelizerbox]
 categories: [childhood-archive]
 series: []
 date: 2015-04-21T00:00:00+02:00
-lastmod: 2015-04-21T00:00:00+02:00
+lastmod: 2022-01-22T14:57:31+02:00
 featuredVideo:
 featuredImage:
 draft: false

@@ -7,7 +7,7 @@ tags: []
 categories: [childhood-archive]
 series: []
 date: 2014-11-06T00:00:00+02:00
-lastmod: 2014-11-06T00:00:00+02:00
+lastmod: 2022-01-22T14:56:58+02:00
 featuredVideo:
 featuredImage:
 draft: false

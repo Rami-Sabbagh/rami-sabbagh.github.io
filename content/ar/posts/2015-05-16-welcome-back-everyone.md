@@ -7,7 +7,7 @@ tags: [pixelizerbox]
 categories: [childhood-archive]
 series: []
 date: 2015-05-16T00:00:00+02:00
-lastmod: 2015-05-16T00:00:00+02:00
+lastmod: 2022-01-22T14:57:46+02:00
 featuredVideo:
 featuredImage: images/posts/childhood-archive/screenshot02-e1431774743456-825x406.png
 draft: false

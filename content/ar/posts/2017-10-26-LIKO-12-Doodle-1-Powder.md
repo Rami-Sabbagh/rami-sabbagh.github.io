@@ -7,7 +7,7 @@ tags: [LIKO-12]
 categories: [doodles]
 series: []
 date: 2017-10-26T00:00:00+02:00
-lastmod: 2022-01-22T13:51:00+02:00
+lastmod: 2022-01-22T14:59:06+02:00
 featuredVideo:
 featuredImage: images/posts/liko-12-doodle-1-powder/Preview.gif
 draft: false
