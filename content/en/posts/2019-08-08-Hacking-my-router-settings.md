@@ -1,6 +1,6 @@
 ---
 title: Hacking my router settings
-description: A demonstration on how the household routers are insecure.
+description: A demonstration on how the household routers can be insecure.
 toc: false
 authors: [rami-sabbagh]
 tags: []
@@ -12,6 +12,8 @@ featuredVideo:
 featuredImage: images/posts/hacking-my-router-settings/post_image.png
 draft: false
 ---
+
+> **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and **very frowned upon**. The post here has been left as a demonstration on how househeld routers can be insecure.
 
 Hello everyone, it's been 2 years since the last blog post, yea, I'm such a lazy blogger 😛
 
@@ -260,7 +262,8 @@ Thanks for reading !
 
 It took me a whole day to write this, please share me your thoughts at [my twitter](https://twitter.com/ramilego4game) 😉
 
-And feel free to support this content by donating to my FOSS project, [LIKO-12](https://ramilego4game.itch.io/liko12) 🧡
+~~And feel free to support my content by donating to my FOSS project, [LIKO-12](https://ramilego4game.itch.io/liko12) 🧡~~
+> Update 2021: The donations to the LIKO-12 project has been closed.
 
 ------
 
@@ -269,3 +272,5 @@ And feel free to support this content by donating to my FOSS project, [LIKO-12](
 ------
 
 P.S: Dad, if you are reading this, please don't block me out 😰
+
+> **Edit at 2022:** Please know that I hugely respect my parents. And as the note in the top of the post says. Hacking is unethical. What happened was due to huge pressure. And wouldn't have done it if it's someone elses property.
