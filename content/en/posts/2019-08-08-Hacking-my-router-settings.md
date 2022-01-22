@@ -19,7 +19,7 @@ Many changes have been made to my home's network recently, my dad took full cont
 
 We have 2 TP-Link routers at home:
 - The main one, which connects with ADSL, is named `InGodWeTrust_HA`,
-- The slave one, which is connected with the main one via an ethernet cable, is named `InGodWeTrust_Boost`.
+- The secondary one, which is connected with the main one via an ethernet cable, is named `InGodWeTrust_Boost`.
 
 What my dad has made was:
 - Changed the main router SSID (which was `InGodWeTrust_Main`) to `InGodWeTrust_HA`
