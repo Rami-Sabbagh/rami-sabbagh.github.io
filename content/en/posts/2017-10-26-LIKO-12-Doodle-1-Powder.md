@@ -453,7 +453,7 @@ end
 
 You can get the final version by typing in LIKO-12 terminal:
 
-```
+```txt
 pastebin get x1yDaTxk powderV1.2.lk12
 load powderV1.2
 run
