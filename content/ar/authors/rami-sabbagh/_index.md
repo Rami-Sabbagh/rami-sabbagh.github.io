@@ -27,6 +27,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/Rami-Sabbagh
+  - icon: rss
+    iconPack: fas
+    url: https://rami-sabbagh.github.io/ar/authors/rami-sabbagh/index.xml
 ---
 
 ## مقدّمة ذاتيّة
