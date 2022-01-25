@@ -18,6 +18,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:rami.sab07@gmail.com
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/rami-sabbagh-2001/
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/rami_sab07
