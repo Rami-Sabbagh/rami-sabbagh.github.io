@@ -10,10 +10,12 @@ date: 2019-08-08T00:00:00+02:00
 lastmod: 2019-08-08T00:00:00+02:00
 featuredVideo:
 featuredImage: images/posts/hacking-my-router-settings/post_image.png
-draft: false
+draft: true
 ---
 
-> **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and **very frowned upon**. The post here has been left as a demonstration on how househeld routers can be insecure.
+> **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and **very frowned upon** (mostly considered illegal). The post here has been left as a demonstration on how househeld routers can be insecure.
+
+> 👋 Hello there dear sneaky reader. So you've found the unpublished post (or rather the hidden one). By being able to read it from source or even build the blog from source. I trust you with the information written here. To not hack unethically and to hugely respect your parents, as I do respect mine.
 
 Hello everyone, it's been 2 years since the last blog post, yea, I'm such a lazy blogger 😛
 
@@ -273,4 +275,4 @@ It took me a whole day to write this, please share me your thoughts at [my twitt
 
 P.S: Dad, if you are reading this, please don't block me out 😰
 
-> **Edit at 2022:** Please know that I hugely respect my parents. And as the note in the top of the post says. Hacking is unethical. What happened was due to huge pressure. And wouldn't have done it if it's someone elses property.
+> **Edit at 2022:** Please know that I hugely respect my parents. And as the note in the top of the post says. Hacking is unethical. What happened was due to huge pressure. Wouldn't have done it if it's someone elses property.
