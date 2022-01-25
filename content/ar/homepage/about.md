@@ -17,6 +17,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/Rami-Sabbagh
+  - icon: rss
+    iconPack: fas
+    url: https://rami-sabbagh.github.io/ar/index.xml
 
 weight: 1
 widget:
