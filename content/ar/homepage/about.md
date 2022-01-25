@@ -1,5 +1,5 @@
 ---
-title: محمّد رامي صباغ
+title: محمّد رامي صبّاغ
 draft: false
 role: طالب
 avatar: images/authors/rami-sabbagh.jpg
