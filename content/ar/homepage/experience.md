@@ -1,5 +1,5 @@
 ---
-title: الخبرات
+title: الخبرة
 draft: false
 experiences:      
   - title: مطوّر برمجيّات مفتوحة المصدر

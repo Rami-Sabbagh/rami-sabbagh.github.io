@@ -1,5 +1,5 @@
 ---
-title: Experiences
+title: Experience
 draft: false
 experiences:      
   - title: Open-source Developer
