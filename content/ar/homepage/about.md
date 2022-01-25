@@ -6,7 +6,7 @@ avatar: images/authors/rami-sabbagh.jpg
 bio: شغوف. متعلّم ذاتي. احب التوجّه مفتوح المصدر.
 organization:
   name: كلّية هندسة التقانة المعلوماتية، جامعة دمشق
-  url: https://en.wikipedia.org/wiki/Damascus_University
+  url: https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%AF%D9%85%D8%B4%D9%82
 social:
   - icon: envelope
     iconPack: fas
