@@ -9,11 +9,11 @@ experiences:
     dates: '2019 - present'
     location: Damascus, Syria
     writeup: >
-      - Bachelor's Degree in Information Technology Engineering.
+      - Studying for a Bachelor's Degree in Information Technology Engineering (expected to finish in 2024).
 
       - Participated with 2 other colleagues in [DCPC 2020 and acquired the 15th place](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
 
-      - Participated in [SCPC 2020 _unofficially_ and acquired the 50th place](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
+      - Participated alone in [SCPC 2020 _unofficially_ and acquired the 50th place](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
 
   - title: Open-source Developer
     organization:
