@@ -1,7 +1,20 @@
 ---
 title: Experience
 draft: false
-experiences:      
+experiences:
+  - title: Student
+    organization:
+      name: Faculty of Information Technology Engineering, Damascus University
+      url: https://en.wikipedia.org/wiki/Damascus_University
+    dates: '2019 - present'
+    location: Damascus, Syria
+    writeup: >
+      - Bachelor's Degree in Information Technology Engineering.
+
+      - Participated with 2 other colleagues in [DCPC 2020 and acquired the 15th place](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
+
+      - Participated in [SCPC 2020 _unofficially_ and acquired the 50th place](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
+
   - title: Open-source Developer
     organization:
       name: LIKO-12
@@ -24,7 +37,7 @@ experiences:
 
 weight: 3
 widget:
-  handler: experiences
+  handler: experience
 
   # Options: sm, md, lg and xl. Default is md.
   width: lg
