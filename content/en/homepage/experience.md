@@ -27,7 +27,7 @@ experiences:
 
       Inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
-      - Accumlated ~890 stars over the years.
+      - Accumulated ~890 stars over the years.
 
       - Supported Windows, Linux, _macOS_ and Android.
       
