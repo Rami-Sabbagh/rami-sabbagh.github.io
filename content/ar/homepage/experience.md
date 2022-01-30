@@ -11,9 +11,9 @@ experiences:
     writeup: >
       - أدرس للحصول على شهادة بكلوريوس في هندسة تقانة المعلوماتيّة (متوقع الانتهاء في 2024).
 
-      - شاركت مع زميلين في [مسابقة DCPC 2020 (مستوى دمشق) وحصلنا على المرتبة 15](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
+      - شاركت مع زميلين في [مسابقة DCPC 2020 (مستوى دمشق) وحصلنا على المرتبة 14](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
 
-      - شاركت بانفراد في [مسابقة SCPC 2020 _غير رسميّاً (مستوى سورية) وحصلت على المرتبة 50](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
+      - شاركت بانفراد في [مسابقة SCPC 2020 _غير رسميّاً (مستوى سورية) وحصلت على المرتبة 52](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
 
   - title: مطوّر برمجيّات مفتوحة المصدر
     organization:
