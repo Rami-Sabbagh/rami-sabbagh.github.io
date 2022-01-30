@@ -11,9 +11,9 @@ experiences:
     writeup: >
       - Studying for a Bachelor's Degree in Information Technology Engineering (expected to finish in 2024).
 
-      - Participated with 2 other colleagues in [DCPC 2020 and acquired the 15th place](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
+      - Participated with 2 other colleagues in [DCPC 2020 and acquired the 14th place](https://drive.google.com/file/d/1pRthAE883FmtHLyt2u2m2pwToYUz5Mp-/view).
 
-      - Participated alone in [SCPC 2020 _unofficially_ and acquired the 50th place](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
+      - Participated alone in [SCPC 2020 _unofficially_ and acquired the 52nd place](https://drive.google.com/file/d/1pxakSs2A7sd-CAQwG46ygNf-dYI7OBA8/view).
 
   - title: Open-source Developer
     organization:
@@ -27,7 +27,7 @@ experiences:
 
       Inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
-      - Accumlated ~890 stars over the years.
+      - Accumulated ~890 stars over the years.
 
       - Supported Windows, Linux, _macOS_ and Android.
       
