@@ -23,7 +23,7 @@ experiences:
     location: (الانترنت)
     writeup: >
       اخترعت واستمرّيت بصيانة [LIKO-12](https://github.com/LIKO-12/LIKO-12) لثلاث سنين.
-      والّذي هو "كومبيتر فنتزي (وهمي)" مفتوح المصدر، أو يمكن القول أنّه بيئة برمجية بمظهر ارتجاعي مناسب للتعلّم.
+      والّذي هو "كومبيوتر فنتزي (وهمي)" مفتوح المصدر، أو يمكن القول أنّه بيئة برمجية بمظهر ارتجاعي مناسب للتعلّم.
       مستلهم من [PICO-8](https://www.lexaloffle.com/pico-8.php)، [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) والقليل من الـ[DOS](https://en.wikipedia.org/wiki/DOS).
 
       - جمّع ما يقارب ~890 نجمة على منصّة [GitHub](https://github.com/) عبر السنين.
