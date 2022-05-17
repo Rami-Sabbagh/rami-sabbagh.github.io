@@ -3,6 +3,8 @@
 /resources
 /public
 
+/assets/jsconfig.json
+
 # Notepad++
 
 *.bak
