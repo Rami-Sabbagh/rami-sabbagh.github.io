@@ -10,12 +10,11 @@ date: 2019-08-08T00:00:00+02:00
 lastmod: 2019-08-08T00:00:00+02:00
 featuredVideo:
 featuredImage: images/posts/hacking-my-router-settings/post_image.png
-draft: true
 ---
 
-> **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and **very frowned upon** (mostly considered illegal). The post here has been left as a demonstration on how househeld routers can be insecure.
+> **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and considered illegal in most countries including Syria. The post here has been left as a demonstration on how househeld routers can be insecure.
 
-> 👋 Hello there dear sneaky reader. So you've found the unpublished post (or rather the hidden one). By being able to read it from source or even build the blog from source. I trust you with the information written here. To not hack unethically and to hugely respect your parents, as I do respect mine.
+> **Edit at 2022:** Please treat your parents at full respect, they most likely want what's the best for you. And as the note in the top of the post says. Hacking is unethical even with the same house. This remains as a story of what childish me have done.
 
 Hello everyone, it's been 2 years since the last blog post, yea, I'm such a lazy blogger 😛
 
@@ -29,14 +28,14 @@ What my dad has made was:
 - Changed the main router SSID (which was `InGodWeTrust_Main`) to `InGodWeTrust_HA`
 - Changed the main router wifi password, and never gave it to anyone else in the family 😦
 - Enabled bandwidth control, gave the full speed for himself, and half the speed only for the `Boost` router, which we use, and never told anyone about that.
-- Made a firewall rule for automatically cutting the internet for everyone (including himself) from 11 PM until 4 AM
+- Made a firewall rule for automatically cutting the internet for everyone (including himself) from 11 PM until 4 AM.
 - Disabled the firewall rule when he wanted to use the internet after 11 PM....
 
 So he basically took full control of the main router, setting unfair rules for the rest of the family, and not telling anyone about the bandwidth one...
 
-Our ADSL speed is 1 Mbps, which is usually 102kbyte/s when stable, and now with his bandwidth rule, all the rest of the family (3 members) gets 50kbytes/s to fight each other for...
+Our ADSL speed is 1 Mbps, which is usually 102kbyte/s when stable, and now with his bandwidth rule, all the rest of the family get 50kbytes/s to fight each other for...
 
-It's also that the main router is connnected with a battery, so it stays working when the power is out, but the other router (Boost) is not, and so we are left with no internet when the power is out (About 4 hours everyday).
+It's also that the main router is connected with a battery, so it stays working when the power is out, but the other router (Boost) is not, and so we are left with no internet when the power is out (About 4 hours everyday).
 
 I once had this conversation with him:
 ```
@@ -62,7 +61,7 @@ I went and started doing some research, I already played with wifislax 3 years a
 
 It's a special linux distro with many wifi tools pre-installed, and ready for hacking, easily installable on a usb stick.
 
-I know there's kali linux, but it's 2GB download, and you know, the 50kb/s won't help, I have wifislax already downloaded, _it is a 3 years old copy_, but those things still _work_.
+I know there's kali linux, but it's 2GB download and the 50kb/s won't help. I but there's wifislax already downloaded, _it is a 3 years old copy_, but those things still _work_.
 
 ## Knowing the router configuration/settings webpage
 
@@ -256,16 +255,13 @@ That was easy fix, just untick the box on the top and save.
 
 I hope my dad forgives me for doing that, I'm disabling the bandwidth control when he is out of home, and re-enabling it when he is back, you know, the main rule in hacking is to _leave no trace_.
 
-And it would be good for both of us, not harming him, and not harming me.
+And it would be good for both of us, win-win situation, right?
 
 ---
 
 Thanks for reading !
 
-It took me a whole day to write this, please share me your thoughts at [my twitter](https://twitter.com/ramilego4game) 😉
-
-~~And feel free to support my content by donating to my FOSS project, [LIKO-12](https://ramilego4game.itch.io/liko12) 🧡~~
-> Update 2021: The donations to the LIKO-12 project has been closed.
+It took me a whole day to write this, please share me your thoughts at [twitter](https://twitter.com/ramilego4game) 😉
 
 ------
 
@@ -274,5 +270,3 @@ It took me a whole day to write this, please share me your thoughts at [my twitt
 ------
 
 P.S: Dad, if you are reading this, please don't block me out 😰
-
-> **Edit at 2022:** Please know that I hugely respect my parents. And as the note in the top of the post says. Hacking is unethical. What happened was due to huge pressure. Wouldn't have done it if it's someone elses property.
