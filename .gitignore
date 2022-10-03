@@ -5,6 +5,10 @@
 
 /assets/jsconfig.json
 
-# Notepad++
+# IDE
+.idea
+
+.vscode/*
+!.vscode/tasks.json
 
 *.bak
