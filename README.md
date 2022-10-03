@@ -20,7 +20,7 @@ hugo serve -D
 ## Creating a new post
 
 ```bash
-hugo new posts/YYYY-MM-DD-Post-Title.md
+hugo new posts/YYYY-MM-DD-post-title-in-snake-case.md
 ```
 
 For Arabic copy the file manually to `content/ar/posts` and translate it.
