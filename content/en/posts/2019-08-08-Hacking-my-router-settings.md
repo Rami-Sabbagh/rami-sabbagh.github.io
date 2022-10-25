@@ -14,7 +14,7 @@ featuredImage: images/posts/hacking-my-router-settings/post_image.png
 
 > **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and considered illegal in most countries including Syria. The post here has been left as a demonstration on how househeld routers can be insecure.
 
-> **Edit at 2022:** Please treat your parents at full respect, they most likely want what's the best for you. And as the note in the top of the post says. Hacking is unethical even with the same house. This remains as a story of what childish me have done.
+> **Edit at 2022:** Please treat your parents at full respect, they most likely want what's the best for you. And as the note in the top of the post says. Hacking is unethical even with in the same house. This remains as a story of what childish me have done.
 
 Hello everyone, it's been 2 years since the last blog post, yea, I'm such a lazy blogger 😛
 
