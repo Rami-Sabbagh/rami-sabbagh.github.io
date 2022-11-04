@@ -1,7 +1,0 @@
-main:
-  - name: حول
-    url: '#about'
-    weight: 1
-  - name: المنشورات
-    url: /posts/
-    weight: 2

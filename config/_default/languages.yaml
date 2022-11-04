@@ -2,17 +2,9 @@ en:
   languageCode: en
   languageName: English
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
-  contentDir: content/en
+  # contentDir: content/en
 
 # Uncomment for multilingual sites, and customize the following config.
-ar:
-  languageCode: ar
-  languageName: العربية
-  languageDirection: rtl
-  contentDir: content/ar
-  title: مدوّنة رامي
-  description: مدوّنة شخصيّة حول التكنولوجيا والهندسة
-  publisherName: محمّد رامي صبّاغ
 # zh:
 #   languageCode: zh
 #   languageName: 简体中文
