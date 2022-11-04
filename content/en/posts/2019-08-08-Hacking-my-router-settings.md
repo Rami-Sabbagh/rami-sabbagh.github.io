@@ -10,6 +10,7 @@ date: 2019-08-08T00:00:00+02:00
 lastmod: 2019-08-08T00:00:00+02:00
 featuredVideo:
 featuredImage: images/posts/hacking-my-router-settings/post_image.png
+draft: true
 ---
 
 > **ⓘ Important:** **<u>Never ever attempt to do hacking without proper permission from the systems owners. Even for educational purposes.</u>** It's an unethical action and considered illegal in most countries including Syria. The post here has been left as a demonstration on how househeld routers can be insecure.

@@ -1,9 +1,7 @@
 
 # rami-sabbagh.github.io
 
-Welcome to the source-files of my personal blogs 👋
-
-## About the website generation
+Welcome to the source-files of my personal blog 👋
 
 The website is statically generated using [HUGO](https://gohugo.io/) with the nice [Eureka](https://themes.gohugo.io/themes/hugo-eureka/) theme.
 
@@ -11,16 +9,50 @@ The website is statically generated using [HUGO](https://gohugo.io/) with the ni
 
 Install the latest version of GO, and HUGO.
 
-Clone this repository, and run at the root of it:
+Clone this repository, install dependencies using:
 
-```bash
+```sh
+go mod download
+```
+
+Then run the preview server with drafts enabled by:
+
+```sh
 hugo serve -D
 ```
+
+## Theme reference
+
+- [Content Management (Create new content)](https://www.wangchucheng.com/en/docs/hugo-eureka/content-management/).
+- [Creating Multilingual Posts](https://www.wangchucheng.com/en/docs/hugo-eureka/multilingual-mode/).
 
 ## Creating a new post
 
 ```bash
 hugo new posts/YYYY-MM-DD-post-title-in-snake-case.md
+# or for multilingual
+hugo new content/<language_code>/posts/<YYYY-MM-DD-post-title-in-snake-case.md>
 ```
 
 For Arabic copy the file manually to `content/ar/posts` and translate it.
+
+## Updating Eureka
+
+```sh
+go get -u wangchucheng.com/hugo-eureka
+# then update the versions in the commented lines in go.mod
+```
+
+## Using my fork of hugo-eureka
+
+Uncomment one of the replace lines in `go.mod` then run:
+
+```sh
+go mod download
+```
+
+### Notes for developing the fork
+
+- Rebuild the assets by running `hugo` (without parameters) in the root of the cloned `hugo-eureka` repository.
+    - Check the files in `/resources/_gen/`.
+- The line which compiles the stylesheets is in `layouts\partials\head.html`.
