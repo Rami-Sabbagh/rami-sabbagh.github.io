@@ -6,7 +6,7 @@
         {
             "label": "HUGO: Run local live server with drafts",
             "type": "shell",
-            "command": "hugo serve -D",
+            "command": "hugo serve -D --cacheDir ${workspaceFolder}/cache/",
             "isBackground": true,
             "presentation": {
                 "echo": true,

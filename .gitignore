@@ -2,6 +2,7 @@
 
 /resources
 /public
+/cache
 
 /assets/jsconfig.json
 
