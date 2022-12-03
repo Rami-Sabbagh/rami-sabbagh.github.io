@@ -38,17 +38,11 @@ For Arabic copy the file manually to `content/ar/posts` and translate it.
 
 ## Updating Eureka
 
-```sh
-go get -u wangchucheng.com/hugo-eureka
-# then update the versions in the commented lines in go.mod
-```
-
-## Using my fork of hugo-eureka
-
-Uncomment one of the replace lines in `go.mod` then run:
+This blog is built using my own fork of hugo-eureka, to have updates the fork has to be updated first
+(by merging changes from the main repo).
 
 ```sh
-go mod download
+go get -u github.com/Rami-Sabbagh/hugo-eureka
 ```
 
 ### Notes for developing the fork

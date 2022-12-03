@@ -10,7 +10,7 @@ date: 2022-11-04T18:34:34+03:00
 lastmod: 2022-11-04T18:34:34+03:00
 featuredVideo:
 featuredImage:
-draft: true
+draft: false
 ---
 
 ## Motivation
@@ -280,7 +280,7 @@ Understanding how compilers work and having practical experience in hacking them
 
 While it took me 3 days to get what I wanted done, that was because it's the first time doing so. I believe that writing a new transformer for some other new project could be done in a one coding session.
 
-How have you found the post? do you have any feedback or questions? Please let me know using social media :)
+How have you found the post? do you have any feedback or questions? Please let me know :)
 
 <!-- 
 
@@ -294,6 +294,7 @@ How have you found the post? do you have any feedback or questions? Please let m
 - To have rich media presence.
     - Quick preview in Telegram
 - To have google analytics setup.
+- Build in production mode.
 - Possibly enable comments?
 
 ## Writing notes
