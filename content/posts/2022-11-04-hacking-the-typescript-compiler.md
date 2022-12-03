@@ -10,7 +10,7 @@ date: 2022-11-04T18:34:34+03:00
 lastmod: 2022-11-04T18:34:34+03:00
 featuredVideo:
 featuredImage:
-draft: false
+draft: true
 ---
 
 ## Motivation
