@@ -3,7 +3,7 @@ title: Rami Sabbagh
 draft: false
 role: Student
 avatar: images/authors/rami-sabbagh.jpg
-bio: Passionate. Self-learner. Love open-source.
+bio: Passionate. Self-learner. Interested in open-source.
 organization:
   name: Faculty of Information Technology Engineering, Damascus University
   url: https://en.wikipedia.org/wiki/Damascus_University

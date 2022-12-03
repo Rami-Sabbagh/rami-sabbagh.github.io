@@ -4,7 +4,7 @@ title: Rami Sabbagh
 role: Student
 bio: >
   The main writer of this (my personal) blog.
-  Passionate. Self-learner. Love open-source.
+  Passionate. Self-learner. Interested in open-source.
 avatar: images/authors/rami-sabbagh.jpg
 
 organization:
