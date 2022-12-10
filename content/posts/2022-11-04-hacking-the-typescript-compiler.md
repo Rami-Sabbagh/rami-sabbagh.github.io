@@ -3,14 +3,14 @@ title: Hacking the TypeScript compiler to keep the code clean
 description: Auto generating code at each compile with extracted type information.
 toc: true
 authors: [rami-sabbagh]
-tags: [typescript, compiler, transformer, programming] # they affect open-graph (social media)
+tags: [programming, typescript, compiler] # they affect open-graph (social media)
 categories: []
 series: []
 date: 2022-11-04T18:34:34+03:00
 lastmod: 2022-12-10T18:29:34+03:00
 featuredVideo:
 featuredImage: images/posts/ts-transformer-01/preview-image-3.png
-draft: true
+draft: false
 ---
 
 > The post has been written since 2022-11-04 but took until 2022-12-10 to be published.
