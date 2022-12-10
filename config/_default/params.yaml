@@ -1,6 +1,7 @@
 mainSections:
   - posts
 description: A personal blog about technology and engineering.
+twitterUsername: rami_sab07 # for open graph
 
 repoEditURL:
 

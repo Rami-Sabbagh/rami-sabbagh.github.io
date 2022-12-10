@@ -5,7 +5,15 @@ role: Student
 bio: >
   The main writer of this (my personal) blog.
   Passionate. Self-learner. Interested in open-source.
+  Feel free to message/email me! (although I might reply late).
 avatar: images/authors/rami-sabbagh.jpg
+
+# Open Graph (Media Presence)
+firstName: Rami
+lastName: Sabbagh
+username: rami_sab07
+gender: male #male, female
+twitterUsername: rami_sab07
 
 organization:
   name: Faculty of Information Technology Engineering, Damascus University
