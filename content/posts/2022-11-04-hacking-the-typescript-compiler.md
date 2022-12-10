@@ -9,7 +9,7 @@ series: []
 date: 2022-11-04T18:34:34+03:00
 lastmod: 2022-12-10T18:29:34+03:00
 featuredVideo:
-featuredImage: images/posts/ts-transformer-01/preview-image-3.png
+featuredImage: images/posts/ts-transformer-01/preview-image-4.png
 draft: false
 ---
 
