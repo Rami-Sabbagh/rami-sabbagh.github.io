@@ -3,13 +3,13 @@ title: Hacking the TypeScript compiler to keep the code clean
 description: A story on how I dived into the TypeScript compiler internals in order to hack it and auto generate code with extracted type information.
 toc: true
 authors: [rami-sabbagh]
-tags: []
+tags: [] # they affect open-graph (social media)
 categories: []
 series: []
 date: 2022-11-04T18:34:34+03:00
 lastmod: 2022-11-04T18:34:34+03:00
 featuredVideo:
-featuredImage:
+featuredImage: images/posts/ts-transformer-01/preview-image-3.png
 draft: true
 ---
 
@@ -139,6 +139,8 @@ function point(x: number, y: number, color?: number) {
 
 Then the transformer will do all the magic needed at compile time.
 
+The source-code is available on [Rami-Sabbagh/ts-inject-parameters-metadata](https://github.com/Rami-Sabbagh/ts-inject-parameters-metadata) if you want to check it out! Its in [`src/index.ts`](https://github.com/Rami-Sabbagh/ts-inject-parameters-metadata/blob/main/src/index.ts).
+
 <!-- TODO: Add an interactive playground -->
 
 Such a hack helped keep the code more maintainable and the development of the project more fun.
@@ -175,8 +177,8 @@ Initially you would find it hard to dive into hundreds of thousands of lines of 
     - It was much of the help in understanding the AST and figuring what I want to search for.
 - **[ttypescript](https://github.com/cevek/ttypescript)**: typescript doesn't support loading transformers by itself, this is a wrapper around the `tsc` command that does the necessary magic to do so.
     - It's what you'll use to try the transformer as you're writing it and what you'll use to apply it on the actual project.
-    - It can act as a wrapper command to the `tsc` one or it can be loaded as a plugin to webpack and some other bundlers.
-    - It allows writing the transformer in TypeScript so that you can have strong type, have the IDE auto-completion and even attach a debugger to debug the transformer itself.
+    - It can act as a wrapper command to the `tsc` one or it can be loaded as a plugin for webpack and some other bundlers.
+    - It allows writing the transformer in TypeScript so that you can have strong types, have the IDE auto-completion and even attach a debugger to debug the transformer itself.
 - **[TypeScript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook)**: "A comprehensive handbook on how to create transformers for TypeScript with code examples", it helped much too.
 - **[ts-creator.js.org](https://ts-creator.js.org/) ([source & api](https://github.com/HearTao/ts-creator))**: a tool for generating the code which constructs the AST of a code snippet.
     - This helped to figure out how to construct the code I wanted to generate.
