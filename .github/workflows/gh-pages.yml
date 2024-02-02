@@ -7,10 +7,10 @@ on:
   pull_request:
 
 jobs:
-  deploy:
-    runs-on: ubuntu-20.04
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -21,12 +21,29 @@ jobs:
           hugo-version: '0.105.0'
           extended: true
 
-      - name: Build
+      - name: Build Website
         run: hugo --minify --environment production
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      
+      - name: Upload the gh-pages artifact
+        uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: public/
+
+  gh-pages:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
