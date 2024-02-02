@@ -1,5 +1,5 @@
 
-# rami-sabbagh.github.io
+# https://rami-sabbagh.com/
 
 Welcome to the source-files of my personal blog 👋
 

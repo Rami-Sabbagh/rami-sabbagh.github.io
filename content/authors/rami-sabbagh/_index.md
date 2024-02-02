@@ -37,7 +37,7 @@ social:
     url: https://github.com/Rami-Sabbagh
   - icon: rss
     iconPack: fas
-    url: https://rami-sabbagh.github.io/authors/rami-sabbagh/index.xml
+    url: https://rami-sabbagh.com/authors/rami-sabbagh/index.xml
 ---
 
 ## Self Introduction

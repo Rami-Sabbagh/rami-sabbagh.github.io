@@ -22,7 +22,7 @@ social:
     url: https://github.com/Rami-Sabbagh
   - icon: rss
     iconPack: fas
-    url: https://rami-sabbagh.github.io/index.xml
+    url: https://rami-sabbagh.com/index.xml
 
 weight: 1
 widget:
