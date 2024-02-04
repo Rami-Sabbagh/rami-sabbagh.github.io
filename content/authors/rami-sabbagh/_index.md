@@ -4,7 +4,6 @@ title: Rami Sabbagh
 role: Student
 bio: >
   The main writer of this (my personal) blog.
-  Passionate. Self-learner. Interested in AI.
   Feel free to message/email me! (although I might reply late).
 avatar: images/authors/rami-sabbagh.jpg
 
