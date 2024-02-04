@@ -42,7 +42,7 @@ social:
 ## Self Introduction
 
 I'm an IT engineer who has been programming for about ~9 years now.
-Made my first game at the age of ~13.
+Made my [first game](https://www.youtube.com/watch?v=IRRi95D8xeQ) at the age of ~13.
 
 Previously created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source programming environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
