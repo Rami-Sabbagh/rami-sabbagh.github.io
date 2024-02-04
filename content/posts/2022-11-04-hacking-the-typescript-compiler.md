@@ -13,8 +13,6 @@ featuredImage: images/posts/ts-transformer-01/preview-image-4.png
 draft: false
 ---
 
-> The post has been written since 2022-11-04 but took until 2022-12-10 to be published.
-
 ## Motivation
 
 While working on a project, I had faced this situation in which I want to provide an API that'll by used by untyped code (like JavaScript).
