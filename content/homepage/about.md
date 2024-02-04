@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:rami.sab07@gmail.com
+    url: mailto:hey@rami-sabbagh.com
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/rami-sabbagh-2001/
