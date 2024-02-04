@@ -29,13 +29,13 @@ experiences:
 
       Inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
-      - Reached 1k stars over the years!
+      - Reached 1.1k stars over the years!
 
       - Supported Windows, Linux, _macOS_ and Android.
       
       - ~2,688 commits, ~42,660 lines of code.
 
-      - [~9,952 downloads](https://tooomm.github.io/github-release-stats/?username=LIKO-12&repository=LIKO-12) on GitHub, ~11.4k on itch.io.
+      - [~11,816 downloads](https://tooomm.github.io/github-release-stats/?username=LIKO-12&repository=LIKO-12) on GitHub, ~11.4k on itch.io.
 
 weight: 3
 widget:

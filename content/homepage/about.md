@@ -3,9 +3,9 @@ title: Rami Sabbagh
 draft: false
 role: Student
 avatar: images/authors/rami-sabbagh.jpg
-bio: Passionate. Self-learner. Interested in open-source.
+bio: Passionate. Self-learner. Interested in AI.
 organization:
-  name: Faculty of Information Technology Engineering, Damascus University
+  name: Damascus University
   url: https://en.wikipedia.org/wiki/Damascus_University
 social:
   - icon: envelope
@@ -51,13 +51,13 @@ widget:
 
 ## Self Introduction
 
-Been programming for almost ~8 years now.
+I'm an IT engineer who has been programming for about ~9 years now.
 Made my first game at the age of ~13.
 
-Previousely created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source learning environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
+Previously created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source programming environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
 Interested in computers, LEGO, Raspberry Pi, math and some of electronics.
 
 ## About This Blog
 
-This is a **hobby** blog where I _may_ write random posts related to computers and possibly anything electronic.
+This is a **hobby** blog where I _may_ write random posts related to computers and possibly anything.

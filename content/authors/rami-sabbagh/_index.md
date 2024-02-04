@@ -4,7 +4,7 @@ title: Rami Sabbagh
 role: Student
 bio: >
   The main writer of this (my personal) blog.
-  Passionate. Self-learner. Interested in open-source.
+  Passionate. Self-learner. Interested in AI.
   Feel free to message/email me! (although I might reply late).
 avatar: images/authors/rami-sabbagh.jpg
 
@@ -42,9 +42,9 @@ social:
 
 ## Self Introduction
 
-Been programming for almost ~8 years now.
+I'm an IT engineer who has been programming for about ~9 years now.
 Made my first game at the age of ~13.
 
-Previousely created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source learning environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
+Previously created [LIKO-12](https://github.com/LIKO-12/LIKO-12), an open-source programming environment that felt like old computers, inspired by [PICO-8](https://www.lexaloffle.com/pico-8.php), [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) and little bit of [DOS](https://en.wikipedia.org/wiki/DOS).
 
-Interested in computers, LEGO, Raspberry Pi, math some of electronics.
+Interested in computers, LEGO, Raspberry Pi, math and some of electronics.

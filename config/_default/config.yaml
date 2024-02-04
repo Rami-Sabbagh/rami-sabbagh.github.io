@@ -9,7 +9,7 @@ theme: github.com/Rami-Sabbagh/hugo-eureka
 
 paginate: 5
 copyright: >
-  &copy; 2014-2022 Rami Sabbagh
+  &copy; 2014-2024 Rami Sabbagh
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
