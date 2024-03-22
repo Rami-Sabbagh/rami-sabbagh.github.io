@@ -2,6 +2,21 @@
 title: Experience
 draft: false
 experiences:
+  - title: Software Engineer
+    organization:
+      name: Rachis Systems
+      url: https://rachis.co/
+    dates: 'April 2023 - present'
+    location: Damascus, Syria
+    writeup: >
+      - Started as a part-time employee then switched to a freelancer relationship.
+
+      - Created a RPC library for bi-directional communication between Unity & Python.
+
+      - Created an algorithm for detecting deformation in a gear.
+
+      - Created [wg-2hop-install](https://github.com/Rachis-Systems/wg-2hop-install), a VPN with customized configuration for routing traffic into a gateway through a relay.
+
   - title: Student
     organization:
       name: Faculty of Information Technology Engineering, Damascus University
