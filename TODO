@@ -1,0 +1,41 @@
+☐ Add some headline/intro text to this website.
+☐ Figure out how to increase the page width on desktop.
+
+Deployment:
+    ☐ Add Google Analytics. https://blowfish.page/docs/partials/#google-analytics
+        ☐ Check HUGO docs for more configuration, like options for respecting DO-NOT-TRACK requests.
+    ✔ Fix page favicon. @done(24-11-28 23:41)
+    ☐ Add verification for Google, Bing: https://blowfish.page/docs/configuration/#verifications
+    ☐ Get visible on Yandex and Baidu?
+
+Migration:
+    ☐ Fix featured images of migrated posts.
+    ☐ Fix posts that had a featured video.
+    ☐ Fix `toc: false` in the old posts.
+    ☐ Add summaries to the posts.
+    ✔ Update the childhood posts to use the alerts shortcode for the notice. @done(24-11-29 01:05)
+    ☐ Move assets from the shared folder to each post folder.
+
+Content Writing:
+    ☐ Think of introductory content to show on the landing page.
+        ☐ Maybe introduce them to who am i? what programming languages I know, what I do, my interests.
+        ☐ More importantly what's on this blog.
+        ☐ Get inspiration from other blogs?
+    ☐ Add a timeline of my experience: Gamedev -> LIKO-12 -> University -> Rachis Systems.
+        ☐ Write proper details.
+        ☐ Figure out how to make it left-aligned and use the page width.
+    ☐ List projects on the website, use `/content/projects` subdirectory and link in the navbar.
+
+In the future:
+    ☐ Introduce tags, categories, series to the blog.
+    ☐ Add headline after posting 4-7 times (or when the direction of posts is clear).
+    ☐ Once the blog is in good health, get it showcased somewhere in Blowfish links: https://blowfish.page/users/.
+
+Bonus:
+    ☐ Optimize the page for SEO.
+    ☐ Optimize the performance metrics in the Lighthouse.
+        ☐ Possibly host on VPS and use Cloudflare for edge caching.
+    ☐ Add some background to the main page.
+        ☐ Can be a photo of some place I like, maybe somewhere in my country.
+        ☐ Or something animated with JS, maybe something floating randomly, or something with physics and interactive.
+    ☐ Enable Views count and Likes on posts. Using firebase or hack in an alternative. https://blowfish.page/docs/firebase-views/
