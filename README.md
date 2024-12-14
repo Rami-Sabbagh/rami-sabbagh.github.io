@@ -5,8 +5,27 @@ Welcome to the source-files of my personal blog 👋
 
 The website is statically generated using [HUGO](https://gohugo.io/) with the nice [Blowfish](https://blowfish.page/) theme.
 
+## Fix file permissions changes in `blowfish` sub-modules on Windows
+
+If file changes appear within the `blowfish` submodule with no content changes, it's most likely permissions changes due to Windows filesystem.
+You can verify so by opening a terminal in `theme/blowfish` and running `git diff`.
+
+If the output contains something like:
+
+```txt
+old mode 100755
+new mode 100644
+```
+
+To prevent those changes from being picked up by git, run the following within the same previous directory:
+
+```pwsh
+git config core.fileMode false
+```
+
 ## CLI Recipes
 
+- Clone with submodules: `git clone --recurse-submodules <repo-origin>`.
 - Start local server with live reload and drafts enabled: `hugo serve -D`.
 - Build site for publishing: `hugo`.
 - Create new post: `hugo new content posts/YYYY-MM-DD-my-new-post.md`.
