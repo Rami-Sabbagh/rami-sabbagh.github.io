@@ -7,6 +7,8 @@ theme = "blowfish"
 baseURL = "https://rami-sabbagh.com/"
 defaultContentLanguage = "en"
 
+timeout = "15m"
+
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
