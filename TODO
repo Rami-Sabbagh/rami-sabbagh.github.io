@@ -2,10 +2,14 @@
 ☐ Figure out how to increase the page width on desktop.
 
 Deployment:
-    ☐ Add Google Analytics. https://blowfish.page/docs/partials/#google-analytics
+    ✔ Add Google Analytics. https://blowfish.page/docs/partials/#google-analytics @done(24-12-15 00:41)
         ☐ Check HUGO docs for more configuration, like options for respecting DO-NOT-TRACK requests.
+            ☐ Anonymize IP.
+            ☐ Respect DoNotTrack.
     ✔ Fix page favicon. @done(24-11-28 23:41)
     ☐ Add verification for Google, Bing: https://blowfish.page/docs/configuration/#verifications
+        ✔ Google. @done(24-12-15 00:43)
+        ☐ Bing.
     ☐ Get visible on Yandex and Baidu?
 
 Migration:
