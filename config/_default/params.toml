@@ -14,7 +14,7 @@ enableCodeCopy = true
 
 replyByEmail = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
