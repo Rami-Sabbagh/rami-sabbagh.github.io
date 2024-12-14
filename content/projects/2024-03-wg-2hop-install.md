@@ -4,6 +4,7 @@ summary: WireGuard VPN installer for Linux servers with 2-hop gateway configurat
 date: 2024-03-22
 externalUrl: https://github.com/Rami-Sabbagh/wg-2hop-install
 showReadingTime: false
+showWordCount: false
 _build:
     render: "false"
     list: "local"
