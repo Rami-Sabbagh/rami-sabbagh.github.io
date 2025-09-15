@@ -51,3 +51,7 @@ git config core.fileMode false
 - [Blowfish Front-matter](https://blowfish.page/docs/front-matter/).
 - [Blowfish Multi-authors](https://blowfish.page/docs/multi-author/).
 - [Blowfish Advanced Customization](https://blowfish.page/docs/advanced-customisation/).
+
+## Other Links
+
+- [Google Analytics Dashboard](https://analytics.google.com/analytics/web/).
